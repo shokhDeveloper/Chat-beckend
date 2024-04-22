@@ -1,0 +1,27 @@
+[
+    {
+        "message": "Salom Sardor",
+        "authorUserId": 1,
+        "userId": 2
+    },
+    {
+        "message": "Salom Shohijahon",
+        "authorUserId": 2,
+        "userId": 1
+    },
+    {
+        "message": "Nima gap axtam",
+        "authorUserId": 1,
+        "userId": 3
+    },
+    {
+        "message": "Hech gap yo'q Shohijahon",
+        "authorUserId": 3,
+        "userId": 1
+    },
+    {
+        "message": "O'zingdachi Nimalar qilib yuripsan ?",
+        "authorUserId": 3,
+        "userId": 1
+    }
+]
